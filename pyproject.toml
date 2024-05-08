@@ -1,10 +1,10 @@
 [project]
 name = "deocde_jzb"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
-  { name="A tiny Python program for decoding a jzb string", email="menachemkornreich@gmail.com" },
+  { name="Menachem Kornreich", email="menachemkornreich@gmail.com" },
 ]
-description = "A small example package"
+description = "A tiny Python program for decoding a jzb string"
 readme = "README.md"
 requires-python = ">=3.0"
 classifiers = [
